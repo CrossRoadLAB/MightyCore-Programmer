@@ -1,4 +1,4 @@
-# MightyCore-Programmer
+# MIGHTYCORE-Programmer
 
 ![IMG_20210512_153515_Fotor](https://user-images.githubusercontent.com/83240004/125270656-2a130600-e30a-11eb-871e-02c9671d147f.png)
 
