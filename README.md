@@ -38,4 +38,4 @@ If you are interested in buying the PCB you can consider supporting the project 
 https://www.pcbway.com/project/shareproject/MIGHTYCORE_Programmer.html
 
 ## PROJECT SITE
-https://www.crossroadnetwork.org/CrossRoadLAB/projects/MightyCoreProgrammer.html
+https://www.crossroadlab.org/projects/MightyCoreProgrammer.html
