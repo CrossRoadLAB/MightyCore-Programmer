@@ -36,6 +36,3 @@ https://github.com/MCUdude/MightyCore#how-to-install
 
 If you are interested in buying the PCB you can consider supporting the project by purchasing it on:
 https://www.pcbway.com/project/shareproject/MIGHTYCORE_Programmer.html
-
-## PROJECT SITE
-https://www.crossroadlab.org/projects/MightyCoreProgrammer.html
